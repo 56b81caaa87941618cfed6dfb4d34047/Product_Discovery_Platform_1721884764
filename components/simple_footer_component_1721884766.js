@@ -9,13 +9,13 @@ Vue.component("simple_footer_component_1721884766", {
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
                             <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
-                            STARTER_TEMPLATE_APPLICATION_NAME
+                            Product Discovery
                         </a>
                     </div>
                 </div>
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
-                        STARTER_TEMPLATE_FOOTER_CONTENT
+                        At Discovr, we're passionate about helping you stay ahead of the curve. Our app scours the internet for the hottest new products across various categories, so you can be among the first to know about the next big thing. Whether you're a trendsetter or just love being in the know, Discovr is your gateway to the latest and greatest.
                     </div>
                 </div>
             </div>
